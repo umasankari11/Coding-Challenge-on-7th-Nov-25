@@ -37,5 +37,5 @@ Each challenge includes a problem statement and an expected output, enabling use
 1.  Clone this repository:
     
     ```shell
-    git clone https://github.com/yourusername/python-daily-challenges.git
+    git clone https://github.com/umasankari11/Python-Coding-Challenges.git
     ```
